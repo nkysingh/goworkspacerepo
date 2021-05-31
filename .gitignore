@@ -1,0 +1,10 @@
+*.pyc
+*.js~
+*.html~
+*.xml
+*.py-tpl
+*.swp
+*.png
+*.jpeg
+*.mp3
+*.mp4
